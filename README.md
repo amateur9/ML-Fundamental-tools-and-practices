@@ -1,4 +1,2 @@
-<h3 align = "center"> Machine learning </h3>
-We are building basic machine learning models. 
-It shows how to work with decision trees, with logistic, linear regression, and build ensembles of models. 
-Work with "dirty" data and evaluate the quality of models.
+<h3 align = "center"> Machine learning: fundamental tools and practices </h3>
+It contains tasks on classical ML, neural networks, recommendation systems, time series, natural language processing and computer vision
